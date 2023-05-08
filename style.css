@@ -8,3 +8,6 @@ body{
     margin: 10px;
     padding: 5px;
 }
+#time{
+    box-sizing: border-box;
+}
