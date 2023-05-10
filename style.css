@@ -15,3 +15,6 @@ body{
     text-decoration: none;
     color: black;
 }
+.time:hover{
+    color: purple;
+}
