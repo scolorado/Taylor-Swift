@@ -1,3 +1,6 @@
+*{
+    box-sizing: border-box;
+}
 body{
     background-color: #fce6ee;
 }
@@ -8,21 +11,7 @@ body{
     margin: 10px;
     padding: 5px;
 }
-#time{
-    box-sizing: border-box;
+.time{
+    text-decoration: none;
+    color: black;
 }
-.column{
-    float: left;
-    padding: 10px;
-}
-.left {
-    width: 25%;
-  }
-  .right {
-    width: 75%;
-  }
-.row:after {
-    content: "";
-    display: table;
-    clear: both;
-  }
