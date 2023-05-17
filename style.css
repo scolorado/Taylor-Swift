@@ -18,3 +18,12 @@ body{
 .time:hover{
     color: purple;
 }
+p{
+    font-family: 'Bitter', serif;
+}
+h1{
+    font-family: 'Shrikhand', cursive;
+}
+h4{
+    font-family: 'Vidaloka', serif;
+}
